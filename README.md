@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bihogopartners
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in python web3 Ecommerce and LEDGER technology 
+- 🌱 I’m currently learning web3 and decentralised architecture 
+- 💞️ I’m looking to collaborate on Internet of things and decentralised architecture in Ecommerce 
 - 📫 How to reach me twitter @bihogopartners
 
 <!---
